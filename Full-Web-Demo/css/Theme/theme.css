@@ -1,0 +1,23 @@
+.selling-section {
+  background-color: #f1faff;
+}
+
+.information-section,
+.about-section {
+    background-color: white;
+}
+
+.intro-section {
+  background-image:url(../../Images/2436761-banner.png);
+  color: white;
+  padding: 170px 30px;
+  text-align: center;
+}
+
+.service-section {
+  background-color: #f1faff;
+}
+
+.image-section {
+  background-color: #f1f1f1;
+}

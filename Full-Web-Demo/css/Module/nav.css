@@ -1,0 +1,42 @@
+/* Start navbar */
+
+.navbar {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0px;
+}
+
+.navbar a {
+  padding: 7px 10px;
+  margin-left: 15px;
+  color: rgb(79, 79, 79);
+  text-decoration: none;
+  transition: all 0.35s ease;
+}
+
+.navbar ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.navbar ul li {
+  text-decoration: none;
+  display: inline;
+}
+
+.navbar .logo {
+  font-size: 30pt;
+  margin-bottom: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.navbar .menu a:hover {
+  border: rgb(79, 79, 79) solid 1.5px;
+  border-radius: 5px;
+}
+
+/* End navbar */
