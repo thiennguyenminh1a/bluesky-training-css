@@ -1,0 +1,45 @@
+.glyphicon{
+  width: 50px;
+  height: 50px;
+  background-size:100%;
+}
+
+.glyphicon-setup{
+  background-image: url("../../Images/Icons/icon_setup.png")
+}
+
+.glyphicon-people{
+  background-image: url("../../Images/Icons/icon_people.png")
+}
+
+.glyphicon-chemical{
+  background-image: url("../../Images/Icons/icon_chemical.png")
+}
+
+.glyphicon-note{
+  background-image: url("../../Images/Icons/icon_note.png")
+}
+
+.glyphicon-calendar{
+  background-image: url("../../Images/Icons/icon_calendar.png")
+}
+
+.glyphicon-idea{
+  background-image: url("../../Images/Icons/icon_idea.png")
+}
+
+.glyphicon-location{
+  background-image: url("../../Images/Icons/icon_location.png")
+}
+
+.glyphicon-city{
+  background-image: url("../../Images/Icons/icon_city.png")
+}
+
+.glyphicon-mail{
+  background-image: url("../../Images/Icons/icon_mail.png")
+}
+
+.glyphicon-phone{
+  background-image: url("../../Images/Icons/icon_phone.png")
+}

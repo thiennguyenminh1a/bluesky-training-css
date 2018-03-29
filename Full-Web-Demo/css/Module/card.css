@@ -1,0 +1,21 @@
+/* Card create */
+
+.section-card {
+  max-width: 300px;
+  background-color: white;
+  text-align: center;
+  margin-bottom: 30px;
+  padding: 20px;
+  padding-top: 50px;
+}
+
+.section-card img {
+  margin-top: -70px;
+  width: 100px;
+  height: 100px;
+}
+
+
+
+
+/* End card create */
